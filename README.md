@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayman Alsanosi
 - 👀 I’m Cloud Engineer & PHP programmer
-- 🌱 I’m currently learning ReactJS and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me
 -     Tel:+971525447612
